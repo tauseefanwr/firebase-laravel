@@ -4,7 +4,7 @@
 
 
 ## About
-<p>The application has been developed so that it can connect with the google firebase.</p>
-After connecting with the firebase we can create account with the Authetication module of the firebase, which is very useful to enable the user to login with any third party api,
-like google facebook e.t.c.
-Along with that we can sync the auth users in our database with the firebase auth users.
+<p>The application connects with the google firebase.</p>
+After connecting we can create account using the Auth module of the firebase, which enables users to login with third party apis,
+e.g. google facebook e.t.c.
+We can sync the auth users in our database with the firebase auth users.
